@@ -4,5 +4,4 @@
         Label1.Text = "Hello world"
     End Sub
 
-
 End Class
